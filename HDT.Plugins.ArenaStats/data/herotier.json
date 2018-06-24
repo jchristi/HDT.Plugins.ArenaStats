@@ -1,0 +1,54 @@
+{
+	"render_as": "table",
+	"series": {
+		"metadata": {},
+		"data": {
+			"DRUID": [
+				{ 
+					"game_type":3,
+					"popularity":6.75,
+					"total_games":53797,
+					"win_rate":46.19
+				},
+				{
+					"game_type":2,
+					"popularity":14.6,
+					"total_games":296518,
+					"win_rate":50.37
+				},
+				{
+					"game_type":30,
+					"popularity":11.3,
+					"total_games":26428,
+					"win_rate":51.21
+				}
+			],
+			"HUNTER": [
+				{
+					"game_type":3,
+					"popularity":8.87,
+					"total_games":70672,
+					"win_rate":48.43
+				},
+				{
+					"game_type":2,
+					"popularity":15.48,
+					"total_games":314386,
+					"win_rate":51.31
+				},
+				{
+					"game_type":30,
+					"popularity":7.52,
+					"total_games":17590,
+					"win_rate":48.52
+				}
+			],
+			"MAGE": [
+				{ 
+					"game_type":3,
+					"popularity":23.47,
+					"total_games":186876,
+					"win_rate":51.78
+				},
+				{
+					"game_type":2,"popularity":11.56,"total_games":234840,"win_rate":48.55},{"game_type":30,"popularity":14.11,"total_games":32985,"win_rate":47.91}],"PALADIN":[{"game_type":3,"popularity":14.52,"total_games":115656,"win_rate":49.79},{"game_type":2,"popularity":9.73,"total_games":197525,"win_rate":53.3},{"game_type":30,"popularity":8.73,"total_games":20409,"win_rate":52.22}],"PRIEST":[{"game_type":3,"popularity":11.76,"total_games":93662,"win_rate":47.8},{"game_type":2,"popularity":7.83,"total_games":159039,"win_rate":45.36},{"game_type":30,"popularity":15.32,"total_games":35812,"win_rate":47.95}],"ROGUE":[{"game_type":3,"popularity":6.84,"total_games":54472,"win_rate":48.65},{"game_type":2,"popularity":13.49,"total_games":273868,"win_rate":50.44},{"game_type":30,"popularity":13.48,"total_games":31520,"win_rate":50.19}],"SHAMAN":[{"game_type":3,"popularity":14.28,"total_games":113721,"win_rate":51.75},{"game_type":2,"popularity":10.22,"total_games":207577,"win_rate":49.34},{"game_type":30,"popularity":14.93,"total_games":34905,"win_rate":54.11}],"WARLOCK":[{"game_type":3,"popularity":9.01,"total_games":71774,"win_rate":52.7},{"game_type":2,"popularity":12.79,"total_games":259772,"win_rate":50.08},{"game_type":30,"popularity":11.05,"total_games":25830,"win_rate":49.28}],"WARRIOR":[{"game_type":3,"popularity":4.46,"total_games":35514,"win_rate":46.58},{"game_type":2,"popularity":4.25,"total_games":86285,"win_rate":48.15},{"game_type":30,"popularity":3.51,"total_games":8213,"win_rate":43.94}]}},"as_of":"2018-06-22T23:54:20Z"}
